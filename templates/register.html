@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="/static/style2.css">
+</head>
+
+<body>
+    <div class="form">
+        <h2>Login Here</h2>
+        <!-- <input type="email" name="username" placeholder="Enter Email Here">
+        <input type="password" name="" placeholder="Enter Password Here">
+        <button class="btnn"><a href="#">Login</a></button> --> -->
+        <form class="login-form" action="/register" method="POST">
+            {{ form.hidden_tag() }}
+            {{ form.username }}
+            {{ form.password }}
+            <p class="btnn">{{ form.submit }}</p>
+            <p class="message">Not registered? <a href="{{url_for('register')}}">Create an account</a></p>
+
+
+            <p class="link">Don't have an account<br>
+                <a href="#">Sign up </a> here</a>
+            </p>
+        </form>
+        <p class="liw">Log in with</p>
+
+        <div class="icons">
+            <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+        </div>
+</body>
+
+</html>
