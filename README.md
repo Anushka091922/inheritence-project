@@ -38,20 +38,24 @@ https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_ndUjl?usp=sha
 # Screenshots:
 https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sharing
 # TECH-STACK:
-Front-end
+# Front-end
+
 ● HTML
 
 ● CSS
 
 ● JavaScript
 
-Back-end
+# Back-end
+
 ● Flask
 
-Database
+# Database
+
 ● SQL
 
-Machine Learning
+# Machine Learning
+
 ● NLP
 
 # PROGRESS:
