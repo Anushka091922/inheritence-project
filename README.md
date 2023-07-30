@@ -34,11 +34,9 @@ where users can ask, answer, and search for solutions to their problems.
 support and empower citizens in their quest for justice.
 # LINKS:
 # Videos:
-https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_
-ndUjl?usp=sharing
+https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_ndUjl?usp=sharing
 # Screenshots:
-https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9
-iNqegD6Y?usp=sharing
+https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sharing
 # TECH-STACK:
 Front-end
 ● HTML
