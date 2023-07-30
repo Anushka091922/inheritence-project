@@ -40,14 +40,20 @@ https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sha
 # TECH-STACK:
 Front-end
 ● HTML
+
 ● CSS
+
 ● JavaScript
+
 Back-end
 ● Flask
+
 Database
 ● SQL
+
 Machine Learning
 ● NLP
+
 # PROGRESS:
 Fully implemented features:
 ● Displaying summary of laws category-wise
