@@ -121,9 +121,9 @@ the frequently asked questions. Reviews section will show the reviews of other
 users using the website.'
 
 # TEAM MEMBERS:
-Krishi Jain : kkjain_b21@el.vjti.ac.in
+
 Bhoomika Boddireddy: bsboddireddy_b21@ce.vjti.ac.in
-Muskaan Thadani: mkthadani_b21@ce.vjti.ac.in
+
 Anushka Thakur: asthakur_b21@ce.vjti.ac.in
 # MENTORS:
 Sarvagnya Purohit
