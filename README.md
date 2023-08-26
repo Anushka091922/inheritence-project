@@ -1,5 +1,5 @@
 # Inheritence-project
-### KANUN - THE OLD IRONSIDES
+## KANUN - THE OLD IRONSIDES
 
 ## Description:
 With an abundance of lengthy legal articles and laws, it can be challenging
@@ -13,7 +13,7 @@ designed to raise awareness and promote understanding of the laws that
 govern us.
 ■The right to justice is a crucial aspect of the 17 United Nations Sustainable
 
-# Development Goals (UN SDGs).
+## Development Goals (UN SDGs).
 ■It is imperative for citizens to have easy access to information regarding
 laws and regulations in their country.
 ■India, being a democratic nation, ensures that every individual's voice is
@@ -26,7 +26,7 @@ categories of laws such as business law, family law, civil law, and more.
 ■In order to provide a comprehensive resource for citizens, we have also
 included important emergency numbers and frequently asked questions
 
-## (FAQ) pages.
+### (FAQ) pages.
 ■Our community platform serves as a one-stop-shop for all legal inquiries,
 where users can ask, answer, and search for solutions to their problems.
 ■Providing proper legal assistance is a future goal of our website, to further
