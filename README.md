@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sha
 
 ● JavaScript
 
-# Back-end
+## Back-end
 
 ● Flask
 
@@ -66,7 +66,7 @@ Fully implemented features:
 Partially implemented features:
 ● Community
 
-# FUTURE SCOPE:
+## FUTURE SCOPE:
 1. Interactive tools and resources, such as legal calculators, FAQs, and
 articles, to educate and inform the users about the legal process and
 their rights.
@@ -79,7 +79,7 @@ suggestions.
 people can easily get answers for their questions from official lawyer
 accounts.
 
-# APPLICATIONS:
+## APPLICATIONS:
 1. The user can simply obtain a summary of the laws that are present in
 the Indian Constitution but are difficult to understand by utilising our
 website Kanun.
@@ -109,7 +109,7 @@ pip install Flask
 
 6)Then run the app.py file
 
-# USAGE:
+## USAGE:
 At the top is the navigation bar, a user can choose among them. Emergency no
 will direct to the page containing emergency numbers. Acts will take user to the
 acts section where there are different categories of laws available. User has to
@@ -119,7 +119,7 @@ containing various sections and news regarding it is displayed. FAQs will show
 the frequently asked questions. Reviews section will show the reviews of other
 users using the website.'
 
-# TEAM MEMBERS:
+## TEAM MEMBERS:
 
 Bhoomika Boddireddy: bsboddireddy_b21@ce.vjti.ac.in
 Krishi Jain
