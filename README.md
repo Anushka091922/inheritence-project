@@ -36,18 +36,29 @@ support and empower citizens in their quest for justice.
 ## Videos:
 https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_ndUjl?usp=sharing
 
-
-
-
-
-
-
-
-
-
-
 ## Screenshots:
 https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sharing
+
+### summary
+
+![Acts(Equality)](https://github.com/Anushka091922/inheritence-project/assets/114327511/6b6cf377-d6d2-4e01-9201-ca2f39603007)
+
+![More(equality)](https://github.com/Anushka091922/inheritence-project/assets/114327511/427326a4-d45c-48a8-9360-054e06211f43)
+
+
+### main Page
+
+<img width="897" alt="mainpg" src="https://github.com/Anushka091922/inheritence-project/assets/114327511/bb618cbd-9171-41b0-9d53-468084fb0fbb">
+
+
+### updates
+<img width="926" alt="updates" src="https://github.com/Anushka091922/inheritence-project/assets/114327511/a10b66c7-4a6e-4453-a1ab-07fdfb2ac8bb">
+
+
+
+### emergency contacts
+![Kanun_Emergency_Numbers](https://github.com/Anushka091922/inheritence-project/assets/114327511/60041ef9-f678-47b3-adba-7ca052072a86)
+
 ## TECH-STACK:
 ### Front-end
 
