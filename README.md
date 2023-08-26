@@ -31,6 +31,7 @@ included important emergency numbers and frequently asked questions
 where users can ask, answer, and search for solutions to their problems.
 ■Providing proper legal assistance is a future goal of our website, to further
 support and empower citizens in their quest for justice.
+
 ## LINKS:
 ## Videos:
 https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_ndUjl?usp=sharing
@@ -91,7 +92,7 @@ internet, and he can search for law-related updates, if any exist.
 4. If necessary, the user will also be given an emergency phone number.
 5. If the user is unsure which section to search the keywords in, he can
 do it in the whole law section and get the summary of the law.
-# PROJECT SETUP:
+## PROJECT SETUP:
 1)Clone your repository using the following command in the terminal:
 git clone https://github.com/Krishi24/KANUN
 
@@ -124,8 +125,7 @@ users using the website.'
 Bhoomika Boddireddy: bsboddireddy_b21@ce.vjti.ac.in
 Krishi Jain
 Muskaan Thadani
-
 Anushka Thakur: asthakur_b21@ce.vjti.ac.in
-# MENTORS:
+## MENTORS:
 Sarvagnya Purohit
 Rushabh Maru
