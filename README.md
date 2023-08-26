@@ -1,8 +1,8 @@
 # inheritence-project
-# Web development project 
-# KANUN - THE OLD IRONSIDES
+## Web development project 
+### KANUN - THE OLD IRONSIDES
 
-# Description:
+## Description:
 With an abundance of lengthy legal articles and laws, it can be challenging
 for citizens to understand their basic rights and responsibilities. To tackle
 this issue, Kanun presents a solution with a user-friendly website that
@@ -27,18 +27,18 @@ categories of laws such as business law, family law, civil law, and more.
 ■In order to provide a comprehensive resource for citizens, we have also
 included important emergency numbers and frequently asked questions
 
-# (FAQ) pages.
+## (FAQ) pages.
 ■Our community platform serves as a one-stop-shop for all legal inquiries,
 where users can ask, answer, and search for solutions to their problems.
 ■Providing proper legal assistance is a future goal of our website, to further
 support and empower citizens in their quest for justice.
-# LINKS:
-# Videos:
+## LINKS:
+## Videos:
 https://drive.google.com/drive/folders/1F0bhFZPJLe3__5bJpjtMjP75Jz_ndUjl?usp=sharing
-# Screenshots:
+## Screenshots:
 https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sharing
-# TECH-STACK:
-# Front-end
+## TECH-STACK:
+### Front-end
 
 ● HTML
 
@@ -50,15 +50,15 @@ https://drive.google.com/drive/folders/1BhYOVhM5WTnrb7uVECNyJcU9iNqegD6Y?usp=sha
 
 ● Flask
 
-# Database
+### Database
 
 ● SQL
 
-# Machine Learning
+### Machine Learning
 
 ● NLP
 
-# PROGRESS:
+## PROGRESS:
 Fully implemented features:
 ● Displaying summary of laws category-wise
 ● Reviews
@@ -123,6 +123,8 @@ users using the website.'
 # TEAM MEMBERS:
 
 Bhoomika Boddireddy: bsboddireddy_b21@ce.vjti.ac.in
+Krishi Jain
+Muskaan Thadani
 
 Anushka Thakur: asthakur_b21@ce.vjti.ac.in
 # MENTORS:
