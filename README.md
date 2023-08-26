@@ -1,5 +1,4 @@
-# inheritence-project
-## Web development project 
+# Inheritence-project
 ### KANUN - THE OLD IRONSIDES
 
 ## Description:
